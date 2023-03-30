@@ -7,7 +7,7 @@ Full Stack Web Developer
 Hi, I'm a novice developer, my training started about a year ago, then I studied HTML, CSS, about a year ago I studied JS and a little PHP. Recently, after learning JavaScript, I started learning css frameworks like Bootstrap, but still settled on Tailwind. After that, I recently started studying the React library. I've also been learning Python for over a year now and will most likely start learning Django soon.
 
 * 🌍  I'm based in Russia
-* 🖥️  See my portfolio at [grigoriy5544](http://griogiry5544.github.io)
+* 🖥️  See my portfolio at [grigoriy5544](http://grigoriy5544.github.io/)
 * 🧠  I'm learning React
 
 ### Skills
